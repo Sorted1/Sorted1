@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-    <img src="assets/hero.svg" alt="Sorted's GitHub profile with an animated portrait: Python, OSINT, Windows, and hardware projects." width="100%">
+    <img src="assets/hero.svg" alt="" width="100%">
   </picture>
 </div>
 
@@ -16,7 +16,7 @@ I run **Storm Development** and build software for game communities and Windows.
 <a href="https://github.com/Sorted1">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
-    <img src="assets/profile.svg" alt="Sorted, @Sorted1, runs Storm Development. Open GitHub profile." width="100%">
+    <img src="assets/profile.svg" alt="Sorted, @Sorted1, runs Storm Development." width="100%">
   </picture>
 </a>
 
@@ -77,15 +77,8 @@ A few public projects, plus a Flipper Zero collection I curate.
 
 <br>
 
-## Community
-
-I also contribute to [BitHaven Buffalo](https://github.com/BitHavenLLC), a hackerspace in Buffalo, New York.
-
-<br>
-
 <div align="center">
   <a href="https://github.com/Sorted1?tab=repositories">repos</a> &nbsp;·&nbsp;
-  <a href="https://github.com/BitHavenLLC">bithaven</a> &nbsp;·&nbsp;
   <a href="https://x.com/Sorted1416">x</a> &nbsp;·&nbsp;
   <a href="https://t.me/Enervating">telegram</a>
 </div>
