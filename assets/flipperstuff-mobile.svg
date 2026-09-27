@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="164" viewBox="0 0 380 164" role="img" aria-labelledby="title desc">
+  <title id="title">FlipperStuff</title><desc id="desc">Flipper Zero apps and scripts from many creators.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16111e"/><stop offset="1" stop-color="#0a090e"/></linearGradient></defs>
+  <style>
+    .wave { animation: pulse 2.7s ease-in-out infinite; }
+    .pixel { animation: blink 3s steps(1) infinite; }
+    @keyframes pulse { 0%,100% { opacity: .2; } 50% { opacity: .8; } }
+    @keyframes blink { 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) { .wave,.pixel { animation: none; } }
+  </style>
+  <rect x=".5" y=".5" width="379" height="163" rx="17" fill="url(#bg)" stroke="#514068"/>
+  <circle class="wave" cx="324" cy="42" r="31" fill="none" stroke="#bb8af0"/>
+  <rect x="307" y="14" width="36" height="54" rx="7" fill="#d9c7e8"/>
+  <rect x="311" y="19" width="28" height="29" rx="2" fill="#24182f"/>
+  <path d="M316 39c5-4 8-4 9-8 2 4 5 4 10 8" fill="none" stroke="#c393f2" stroke-width="1.5"/>
+  <rect class="pixel" x="322" y="40" width="6" height="3" fill="#e5caff"/>
+  <circle cx="325" cy="57" r="5" fill="#503767"/>
+  <text x="19" y="29" fill="#b68bdf" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">06 / CURATED COLLECTION</text>
+  <text x="18" y="77" fill="#f8f5ff" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="-1">FlipperStuff</text>
+  <text x="19" y="105" fill="#c8bdcf" font-family="Arial,Helvetica,sans-serif" font-size="15">Flipper Zero apps and scripts.</text>
+  <text x="19" y="125" fill="#c8bdcf" font-family="Arial,Helvetica,sans-serif" font-size="15">Curated from many creators.</text>
+  <text x="19" y="151" fill="#c394f3" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">COLLECTION  /  VIEW REPO ↗</text>
+</svg>

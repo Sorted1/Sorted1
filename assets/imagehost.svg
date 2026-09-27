@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img" aria-labelledby="title desc">
+  <title id="title">ImageHost</title><desc id="desc">An image upload endpoint for a ShareX workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15111d"/><stop offset="1" stop-color="#0a090e"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#985de7" stop-opacity=".3"/><stop offset="1" stop-color="#985de7" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="758" height="168" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .upload { animation: upload 2.8s ease-in-out infinite; }
+    .progress { animation: progress 2.8s ease-in-out infinite; transform-origin: 549px 116px; }
+    @keyframes upload { 0%,100% { transform: translateY(4px); opacity: .55; } 50% { transform: translateY(-7px); opacity: 1; } }
+    @keyframes progress { 0% { transform: scaleX(.25); } 80%,100% { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) { .upload,.progress { animation: none; } }
+  </style>
+  <rect x=".5" y=".5" width="759" height="169" rx="18.5" fill="url(#bg)" stroke="#3b304c"/>
+  <g clip-path="url(#clip)">
+    <circle cx="627" cy="85" r="138" fill="url(#glow)"/>
+    <path d="M490 0v170" stroke="#fff" stroke-opacity=".07"/>
+    <rect x="539" y="36" width="159" height="94" rx="9" fill="#110e19" stroke="#9870cf" stroke-width="2"/>
+    <path d="M540 60h157" stroke="#9870cf" stroke-opacity=".65"/>
+    <circle cx="552" cy="48" r="3" fill="#bd8ef8"/><circle cx="563" cy="48" r="3" fill="#5d456f"/>
+    <g class="upload"><path d="M619 70v32m-13-20 13-13 13 13" fill="none" stroke="#eddcff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <path d="M549 116h139" stroke="#433255" stroke-width="4" stroke-linecap="round"/>
+    <path class="progress" d="M549 116h139" stroke="#bc8cf8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="708" cy="43" r="3" fill="#c999ff"/>
+  </g>
+  <text x="28" y="33" fill="#ac86d8" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">05 / SELF-HOSTED</text>
+  <text x="27" y="87" fill="#f8f5ff" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" letter-spacing="-1.5">ImageHost</text>
+  <text x="29" y="116" fill="#bdb2c9" font-family="Arial,Helvetica,sans-serif" font-size="17">An image upload endpoint for a ShareX workflow.</text>
+  <text x="29" y="148" fill="#b88be9" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">FLASK + SHAREX  /  VIEW REPO ↗</text>
+</svg>

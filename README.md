@@ -1,80 +1,71 @@
- <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/87751266?v=4"  />
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
+    <img src="assets/hero.svg" alt="Sorted's GitHub profile with an animated portrait: Python, OSINT, Windows, and hardware projects." width="100%">
+  </picture>
 </div>
 
-###
+<br>
+
+<a href="https://github.com/Sorted1">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
+    <img src="assets/profile.svg" alt="Sorted, @Sorted1, runs Storm Development. Open GitHub profile." width="100%">
+  </picture>
+</a>
+
+<br>
+<br>
+
+<!-- projects:start -->
+<a href="https://stormss.cc">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/storm-scanner-mobile.svg">
+    <img src="assets/storm-scanner.svg" alt="Storm Scanner — Device scans and cheat detection for game communities. Open site." width="100%">
+  </picture>
+</a>
+
+<a href="https://stormopti.com">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/storm-opti-mobile.svg">
+    <img src="assets/storm-opti.svg" alt="Storm Opti — Windows optimization with reversible system tweaks. Open site." width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/Sorted1/Watson">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/watson-mobile.svg">
+    <img src="assets/watson.svg" alt="Watson — Email, IP, and carrier lookups. Extensible commands. Open repository." width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/Sorted1/Refresh-Rate-Switcher">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/refresh-rate-switcher-mobile.svg">
+    <img src="assets/refresh-rate-switcher.svg" alt="Refresh Rate Switcher — Display control for FPGA image-fuser setups. Open repository." width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/Sorted1/ImageHost">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/imagehost-mobile.svg">
+    <img src="assets/imagehost.svg" alt="ImageHost — An image upload endpoint for a ShareX workflow. Open repository." width="100%">
+  </picture>
+</a>
+
+<a href="https://github.com/Sorted1/FlipperStuff">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/flipperstuff-mobile.svg">
+    <img src="assets/flipperstuff.svg" alt="FlipperStuff — Flipper Zero apps and scripts from many creators. Open repository." width="100%">
+  </picture>
+</a>
+<!-- projects:end -->
+
+<br>
 
 <div align="center">
-  <a href="https://discord.com/users/1043668376817500170" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/Enervating" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+  <a href="https://github.com/Sorted1?tab=repositories">repos</a> &nbsp;·&nbsp;
+  <a href="https://github.com/BitHavenLLC">bithaven</a> &nbsp;·&nbsp;
+  <a href="https://x.com/Sorted1416">x</a> &nbsp;·&nbsp;
+  <a href="https://t.me/Enervating">telegram</a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sorted1&label=Profile%20views&color=0e75b6&style=flat" alt="sorted1" />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as Head Developer of https://stormss.cc.<br>- ⚡ In my free time I listen to music.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" alt="Ubtunu Logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="40" alt="Python Logo" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sorted1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sorted1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-###
-<h3 align="left">🛠 Certificates</h3>
-https://freecodecamp.org/certification/sorted/scientific-computing-with-python-v7

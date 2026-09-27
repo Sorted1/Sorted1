@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img" aria-labelledby="title desc">
+  <title id="title">Storm Opti</title><desc id="desc">Windows optimization with reversible system tweaks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14111d"/><stop offset="1" stop-color="#0a090e"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8a56d4" stop-opacity=".28"/><stop offset="1" stop-color="#8a56d4" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="758" height="168" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .sweep { animation: sweep 2.7s linear infinite; }
+    .hz { animation: pulse 2.7s ease-in-out infinite; }
+    @keyframes sweep { from { transform: translateY(-30px); opacity: .15; } to { transform: translateY(45px); opacity: .8; } }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .sweep,.hz { animation: none; } }
+  </style>
+  <rect x=".5" y=".5" width="759" height="169" rx="18.5" fill="url(#bg)" stroke="#3b304c"/>
+  <g clip-path="url(#clip)">
+    <circle cx="627" cy="88" r="138" fill="url(#glow)"/>
+    <path d="M490 0v170" stroke="#fff" stroke-opacity=".07"/>
+    <rect x="535" y="37" width="163" height="95" rx="9" fill="#110e19" stroke="#a378dc" stroke-width="2"/>
+    <path d="M543 66h147m-147 29h147" stroke="#8360ad" stroke-opacity=".3"/>
+    <path class="sweep" d="M543 78h147" stroke="#e0c0ff" stroke-width="3"/>
+    <path d="M592 135v12m49-12v12m-71 1h94" stroke="#ad83e3" stroke-width="3" stroke-linecap="round"/>
+    <rect x="598" y="70" width="36" height="29" rx="5" fill="#17111f" stroke="#7955a4" stroke-opacity=".55"/>
+    <text class="hz" x="616" y="92" text-anchor="middle" fill="#f5edff" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Hz</text>
+    <circle cx="707" cy="48" r="3" fill="#c999ff"/>
+  </g>
+  <text x="28" y="33" fill="#ac86d8" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">02 / STORM DEVELOPMENT</text>
+  <text x="27" y="84" fill="#f8f5ff" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" letter-spacing="-1.5">Storm Opti</text>
+  <text x="29" y="116" fill="#bdb2c9" font-family="Arial,Helvetica,sans-serif" font-size="17">Windows optimization with reversible system tweaks.</text>
+  <text x="29" y="148" fill="#b88be9" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">WINDOWS 10 / 11  /  VIEW SITE ↗</text>
+</svg>

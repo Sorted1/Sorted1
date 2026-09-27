@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img" aria-labelledby="title desc">
+  <title id="title">Watson</title><desc id="desc">Email, IP, and carrier lookups. Extensible commands.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15121e"/><stop offset="1" stop-color="#0a090e"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#9d5cf1" stop-opacity=".3"/><stop offset="1" stop-color="#9d5cf1" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect x="1" y="1" width="758" height="168" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .scan { animation: scan 4s ease-in-out infinite alternate; }
+    .node { animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes scan { from { transform: translateY(-22px); opacity: .2; } to { transform: translateY(22px); opacity: .9; } }
+    @keyframes pulse { 0%,100% { opacity: .4; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .scan,.node { animation: none; } }
+  </style>
+  <rect x=".5" y=".5" width="759" height="169" rx="18.5" fill="url(#bg)" stroke="#3b304c"/>
+  <g clip-path="url(#clip)">
+    <circle cx="635" cy="85" r="132" fill="url(#glow)"/>
+    <path d="M490 0v170" stroke="#fff" stroke-opacity=".07"/>
+    <circle cx="616" cy="80" r="45" fill="none" stroke="#ad80e7" stroke-opacity=".5" stroke-width="2"/>
+    <circle cx="616" cy="80" r="25" fill="none" stroke="#e0c6ff" stroke-opacity=".65"/>
+    <circle cx="616" cy="80" r="5" fill="#fff"/>
+    <path d="m649 113 32 32" stroke="#dbc0ff" stroke-width="10" stroke-linecap="round"/>
+    <path d="M539 80h154m-77-62v124" stroke="#ae81e8" stroke-opacity=".18"/>
+    <path class="scan" d="M558 80h118" stroke="#c79eff" stroke-width="2" stroke-linecap="round"/>
+    <circle class="node" cx="553" cy="51" r="4" fill="#c69bff"/>
+    <circle class="node" cx="689" cy="58" r="3" fill="#a06beb"/>
+    <circle class="node" cx="548" cy="119" r="2.5" fill="#fff"/>
+  </g>
+  <text x="28" y="33" fill="#ac86d8" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">03 / OSINT</text>
+  <text x="27" y="87" fill="#f8f5ff" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" letter-spacing="-1.5">Watson</text>
+  <text x="29" y="116" fill="#bdb2c9" font-family="Arial,Helvetica,sans-serif" font-size="17">Email, IP, and carrier lookups. Extensible commands.</text>
+  <text x="29" y="148" fill="#b88be9" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">PYTHON  /  VIEW REPO ↗</text>
+</svg>
