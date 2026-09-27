@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-    <img src="assets/hero.svg" alt="" width="100%">
+    <img src="assets/hero.svg" alt="Sorted — Python, OSINT, Windows, Hardware, Digital Forensics, and Malware Forensics." width="100%">
   </picture>
 </div>
 

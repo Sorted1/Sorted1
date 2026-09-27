@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="328" viewBox="0 0 760 328" role="img" aria-labelledby="title desc">
   <title id="title">Sorted</title>
-  <desc id="desc">Sorted's GitHub profile, with an animated pixel and ASCII portrait based on the profile picture.</desc>
+  <desc id="desc">Sorted's GitHub profile: Python, OSINT, Windows, Hardware, Digital Forensics, and Malware Forensics, with an animated portrait.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101019"/><stop offset="1" stop-color="#08080c"/></linearGradient>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a77af1" stop-opacity=".62"/><stop offset=".48" stop-color="#54466b" stop-opacity=".36"/><stop offset="1" stop-color="#302a3c" stop-opacity=".7"/></linearGradient>
@@ -68,7 +68,8 @@
   <text x="51" y="43" fill="#c5b8d7" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2">SORTED / @SORTED1</text>
   <text x="721" y="43" text-anchor="end" fill="#9e91b1" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2">GITHUB PROFILE</text>
   <text x="33" y="170" fill="url(#shine)" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="700" letter-spacing="-8">Sorted</text>
-  <text x="38" y="219" fill="#e6dcf3" font-family="Arial,Helvetica,sans-serif" font-size="19">Python  /  OSINT  /  Windows  /  hardware</text>
+  <text x="38" y="213" fill="#e6dcf3" font-family="Arial,Helvetica,sans-serif" font-size="18">Python  /  OSINT  /  Windows  /  Hardware</text>
+  <text x="38" y="242" fill="#c8a4ec" font-family="Arial,Helvetica,sans-serif" font-size="18">Digital Forensics  /  Malware Forensics</text>
   <text x="38" y="303" fill="#8f849f" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2">SCROLL TO EXPLORE</text>
   <path d="M198 298h40m-5-5 5 5-5 5" fill="none" stroke="#b988ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

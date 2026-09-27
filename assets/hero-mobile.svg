@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="258" viewBox="0 0 380 258" role="img" aria-labelledby="title desc">
-  <title id="title">Sorted</title><desc id="desc">Sorted's GitHub profile with an animated pixel portrait based on the profile picture.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="272" viewBox="0 0 380 272" role="img" aria-labelledby="title desc">
+  <title id="title">Sorted</title><desc id="desc">Sorted's GitHub profile: Python, OSINT, Windows, Hardware, Digital Forensics, and Malware Forensics, with an animated portrait.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171120"/><stop offset="1" stop-color="#09090d"/></linearGradient>
-    <clipPath id="clip"><rect x="1" y="1" width="378" height="256" rx="20"/></clipPath>
+    <clipPath id="clip"><rect x="1" y="1" width="378" height="270" rx="20"/></clipPath>
   </defs>
   <style>
     .portrait { animation: portrait 6s ease-in-out infinite; }
@@ -15,7 +15,7 @@
     @keyframes pulse { 0%,100% { opacity: .4; } 50% { opacity: 1; } }
     @media (prefers-reduced-motion: reduce) { .portrait,.ascii-row,.scan,.dot { animation: none; } }
   </style>
-  <rect x=".5" y=".5" width="379" height="257" rx="20" fill="url(#bg)" stroke="#6b4b89"/>
+  <rect x=".5" y=".5" width="379" height="271" rx="20" fill="url(#bg)" stroke="#6b4b89"/>
   <g clip-path="url(#clip)">
     <path d="M258 45h112M258 152h112M264 41v115M366 41v115" fill="none" stroke="#b28add" stroke-opacity=".2"/>
     <g transform="translate(-117 -36) scale(1.35)">
@@ -37,13 +37,14 @@
     </g>
     <path class="scan" d="M283 63h76" stroke="#e7ccff" stroke-opacity=".6"/>
     </g>
-    <path d="M0 205h380" stroke="#b989ec" stroke-opacity=".18"/>
+    <path d="M0 216h380" stroke="#b989ec" stroke-opacity=".18"/>
   </g>
   <circle class="dot" cx="22" cy="28" r="3.5" fill="#c995ff"/>
   <text x="34" y="32" fill="#c9bad9" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">SORTED / @SORTED1</text>
   <text x="18" y="132" fill="#faf7ff" font-family="Arial,Helvetica,sans-serif" font-size="67" font-weight="700" letter-spacing="-5.5">Sorted</text>
-  <rect x="16" y="151" width="348" height="40" rx="8" fill="#0c0a11" fill-opacity=".78"/>
-  <text x="22" y="178" fill="#ddd2ec" font-family="Arial,Helvetica,sans-serif" font-size="16">Python / OSINT / Windows / hardware</text>
-  <text x="22" y="234" fill="#ad8bd1" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">GITHUB PROFILE</text>
-  <path d="M326 228h28m-5-5 5 5-5 5" fill="none" stroke="#c390ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="16" y="149" width="348" height="53" rx="8" fill="#0c0a11" fill-opacity=".78"/>
+  <text x="22" y="171" fill="#ddd2ec" font-family="Arial,Helvetica,sans-serif" font-size="15">Python / OSINT / Windows / Hardware</text>
+  <text x="22" y="192" fill="#c8a4ec" font-family="Arial,Helvetica,sans-serif" font-size="15">Digital Forensics / Malware Forensics</text>
+  <text x="22" y="249" fill="#ad8bd1" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">GITHUB PROFILE</text>
+  <path d="M326 243h28m-5-5 5 5-5 5" fill="none" stroke="#c390ff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
