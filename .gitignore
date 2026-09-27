@@ -9,5 +9,5 @@ venv/
 .project-test-*/
 .project-tests/
 /scripts
-/tests
 projects.json
+/tests

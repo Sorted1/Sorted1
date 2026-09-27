@@ -7,6 +7,12 @@
 
 <br>
 
+## Hey, I'm Sorted
+
+I run **Storm Development** and build software for game communities and Windows. I also work on OSINT tools, self-hosted services, and hardware projects.
+
+<br>
+
 <a href="https://github.com/Sorted1">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
@@ -18,10 +24,14 @@
 <br>
 
 <!-- projects:start -->
+## Storm Development
+
+Storm Scanner is my anti-cheat and digital forensics project; Storm Opti is for Windows optimization.
+
 <a href="https://stormss.cc">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/storm-scanner-mobile.svg">
-    <img src="assets/storm-scanner.svg" alt="Storm Scanner — Device scans and cheat detection for game communities. Open site." width="100%">
+    <img src="assets/storm-scanner.svg" alt="Storm Scanner — Anti-cheat device scans for game communities. Open site." width="100%">
   </picture>
 </a>
 
@@ -31,6 +41,10 @@
     <img src="assets/storm-opti.svg" alt="Storm Opti — Windows optimization with reversible system tweaks. Open site." width="100%">
   </picture>
 </a>
+
+## Other work
+
+A few public projects, plus a Flipper Zero collection I curate.
 
 <a href="https://github.com/Sorted1/Watson">
   <picture>
@@ -60,6 +74,12 @@
   </picture>
 </a>
 <!-- projects:end -->
+
+<br>
+
+## Community
+
+I also contribute to [BitHaven Buffalo](https://github.com/BitHavenLLC), a hackerspace in Buffalo, New York.
 
 <br>
 
